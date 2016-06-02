@@ -35,6 +35,7 @@ format_platform_description () {
 	'linux-ubuntu-12.04-x86_64')	echo 'Ubuntu 12.04 LTS (x86_64)';;
 	'linux-ubuntu-14.04-i386')	echo 'Ubuntu 14.04 LTS (i386)';;
 	'linux-ubuntu-14.04-x86_64')	echo 'Ubuntu 14.04 LTS (x86_64)';;
+	'linux-ubuntu-14.04-aarch64')	echo 'Ubuntu 14.04 LTS (aarch64)';;
 	'linux-ubuntu-14.10-i386')	echo 'Ubuntu 14.10 (i386)';;
 	'linux-ubuntu-14.10-x86_64')	echo 'Ubuntu 14.10 (x86_64)';;
 	'linux-ubuntu-15.04-i386')	echo 'Ubuntu 15.04 (i386)';;
